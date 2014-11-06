@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="180794" started-at="2014-11-04T07:15:47Z" finished-at="2014-11-04T07:18:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="180794" started-at="2014-11-04T07:15:47Z" finished-at="2014-11-04T07:18:48Z">
+      <class name="com.sfdc.scripts.SFDC_AccountVerification">
+        <test-method status="PASS" signature="preCondition()[pri:0, instance:com.sfdc.scripts.SFDC_AccountVerification@14b04ff6]" name="preCondition" is-config="true" duration-ms="21811" started-at="2014-11-04T12:45:47Z" finished-at="2014-11-04T12:46:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="testSFDC_CreateAccount()[pri:0, instance:com.sfdc.scripts.SFDC_AccountVerification@14b04ff6]" name="testSFDC_CreateAccount" duration-ms="158953" started-at="2014-11-04T12:46:09Z" finished-at="2014-11-04T12:48:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSFDC_CreateAccount -->
+      </class> <!-- com.sfdc.scripts.SFDC_AccountVerification -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

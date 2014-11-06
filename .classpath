@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Selenium - ABBVIE/JAR Files/dom4j-1.5.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium - ABBVIE/JAR Files/poi-3.5-FINAL.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium - ABBVIE/JAR Files/poi-3.8-beta4-20110826.jar.zip"/>
+	<classpathentry kind="lib" path="D:/Selenium - ABBVIE/JAR Files/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium - ABBVIE/JAR Files/poi-ooxml-3.9.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium - ABBVIE/JAR Files/poi-ooxml-schemas-3.7-beta1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium - ABBVIE/JAR Files/poi-src-3.8.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium - ABBVIE/JAR Files/selenium-server-standalone-2.43.1.jar"/>
+	<classpathentry kind="lib" path="D:/Selenium - ABBVIE/JAR Files/xmlbeans-2.4.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
